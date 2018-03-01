@@ -19,7 +19,6 @@ class HelloWorld extends React.Component {
         </Sider>
         <Content style={{ padding: '0 24px', minHeight: 280 }}>
         Greeting: {this.props.greeting}
-		zzz
     </Content>
       </Layout>
     </Content>
